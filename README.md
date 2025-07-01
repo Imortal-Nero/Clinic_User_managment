@@ -102,13 +102,3 @@ This project is open-source and free to use for educational or learning purposes
 
 Sameer Ahmed – 2024
 
-```
-
----
-
-Let me know if you'd like:
-- A version tailored for GitHub Pages display
-- Screenshots
-- Markdown with code syntax highlighting
-- `Makefile` or `.bat` for automation
-```
